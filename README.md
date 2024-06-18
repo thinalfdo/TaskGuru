@@ -1,4 +1,4 @@
-# TO_DO_LIST - mobile app
+# TaskGuru - mobile app
 
 ## How it's helpful
 Introducing TaskGuru, the ultimate task management app available for Android users! Designed 
